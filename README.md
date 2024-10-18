@@ -1,3 +1,4 @@
+![logo](https://github.com/Kaushikt422/Kaushikt422/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Kaushik Tiwari</h1>
 <h3 align="center">I am a Computer Science and Engineering student at Chandigarh University .</h3>
 
